@@ -1,0 +1,21 @@
+#logo{
+    background:gold;
+}#nav{
+    background:pink;
+}#navbar{
+    background:skyblue;
+}#footer{
+    background:gold;
+}body{
+    background:gray;
+}
+#sidebar{
+    background:white;
+}
+ul>li{
+    list-style: none;
+}
+a{
+    color: #000;
+    text-decoration: none;
+}
